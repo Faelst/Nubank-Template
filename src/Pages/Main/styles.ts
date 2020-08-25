@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     },
 
     cardTextContentCreditCardValue:{
-      fontSize: 35,
+      fontSize: 40,
       color: '#06bfbc',
       fontWeight: "bold"
     },
@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
     
     
     cardTextContentValue:{
-      fontSize: 35
+      fontSize: 40
     },
 
     cardFooter:{
